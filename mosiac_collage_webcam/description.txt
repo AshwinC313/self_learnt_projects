@@ -1,0 +1,3 @@
+This project aims at building a collage using the webcam by applying suitable gradients and filters.
+The project uses openCV and the gradients of the image have been computed using the sobel filters and laplacian transformations.
+The edge of the image is detected using canny edge detection algorithm
