@@ -1,0 +1,2 @@
+The project aims to form a collage containing different gradients of an image taken from a webcam and forms a collage out of it.
+openCV is used in the project and applications of sobel filter,laplacian transformations and canny edge detections are used
